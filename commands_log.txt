@@ -1,0 +1,38 @@
+    1  whoami
+    2  pwd
+    3  uname -a
+    4  pwd
+    5  ls
+    6  mkdir devops_journey
+    7  ls
+    8  cd devops_journey
+    9  pwd
+   10  ls
+   11  cd..
+   12  cd . .
+   13  pwd
+   14  cd ..
+   15  pwd
+   16  cd devops_journey
+   17  touch my_plan.txt
+   18  ls
+   19  echo "I will reach 150k per month" > my_plan.txt
+   20  cat my_plan.txt
+   21  cd devops_journey
+   22  nano my_plan.txt
+   23  cat my_plan.txt
+   24  nano my_plan.txt
+   25  cat my_plan.txt
+   26  cd devops_journey
+   27  cp my_plan.txt my_plan_backup.txt
+   28  ls
+   29  mv my_plan_backup.txt final_goal.txt
+   30  ls
+   31  mkdir archives
+   32  mv final_goal.txt archives/
+   33  ls
+   34  ls archives/
+   35  rm my_plan.txt
+   36  ls
+   37  cd devops_journey
+   38  history > commands_log.txt
